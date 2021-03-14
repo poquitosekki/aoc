@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-import os
+import sys 
 from typing import List
+from pprint import pprint
 
 def generate_input(FILE: str) -> List[int]:
   ar = []
   with open(FILE, 'r') as f:
     for l in f:
-      ar.append(int(l))
+      ar.append()
   return ar
 
 def solve_part1():

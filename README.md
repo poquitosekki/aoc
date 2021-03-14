@@ -1,4 +1,4 @@
-# AOC
+# Advent of Code
 
 My solutions for `advent of code` puzzles in Python3.
 
